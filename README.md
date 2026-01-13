@@ -14,6 +14,11 @@
   GameX is a fully responsive eSports gaming website that organize gaming tournaments, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
+  <br />
+  <br />
+  <a href="https://gamezx.netlify.app">
+    <img src="https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
 
 </div>
 
@@ -54,5 +59,5 @@ If you want to contact with me you can reach me at [GitHub](https://github.com/o
 This project is licensed under the MIT License.
 <br />
 
-![windows-mockup-08 (1)](https://github.com/codeaashu/GameX/assets/130897584/b83de2df-50e7-459c-a8cd-7df5c10585b8)
+
 
